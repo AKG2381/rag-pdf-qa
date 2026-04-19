@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-anthropic
+langchain-openai
+langchain-chroma
+pypdf
+pdfplumber
+chromadb
+sentence-transformers
+pydantic-settings
+python-dotenv
+streamlit
+pytest
+pytest-mock
