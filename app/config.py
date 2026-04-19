@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     anthropic_api_key: str = ""
     openai_api_key: str = ""
     llm_provider: str = "anthropic"
-    llm_model: str = "claude-3-5-haiku-20241022"
+    llm_model: str = "claude-haiku-4-5-20251001"
 
     embedding_provider: str = "local"
     embedding_model: str = "all-MiniLM-L6-v2"
